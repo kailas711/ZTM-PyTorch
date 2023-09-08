@@ -2,7 +2,7 @@
 
 [Course link](https://zerotomastery.io/courses/learn-pytorch/)
 
-This repository contains all the learnings from the course from the Zero-To-Mastery PyTorch for Deep Learning MOOC.  
+This repository contains all the learnings from the course from the Zero-To-Mastery PyTorch for Deep Learning MOOC. The most comprehensive, modern, and up-to-date course to learn PyTorch  
 
 
 | **Notebook** | **What does it cover?** |
