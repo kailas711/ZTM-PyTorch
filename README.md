@@ -4,6 +4,14 @@
 
 This repository contains all the learnings from the course from the Zero-To-Mastery PyTorch for Deep Learning MOOC. The most comprehensive, modern, and up-to-date course to learn PyTorch  
 
+<p align="center">
+<img src=https://github.com/kailas711/ZTM-PyTorch/assets/89206677/9163b121-0ce9-4742-850a-bcb3c2640ec3
+        alt="Picture" 
+        width="400" 
+        height="200" 
+        style="display: block; margin: 0 auto" />
+
+
 
 | **Notebook** | **What does it cover?** |
 | ----- | ----- |
