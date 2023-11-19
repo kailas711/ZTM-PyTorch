@@ -1,21 +1,23 @@
-# ZTM-PyTorch
-
-[Course link](https://zerotomastery.io/courses/learn-pytorch/)
-
-This repository contains all the learnings from the course from the Zero-To-Mastery PyTorch for Deep Learning MOOC. The most comprehensive, modern, and up-to-date course to learn PyTorch  
-
+# ZTM-PyTorch 🔥 Learning Repository
 <p align="center">
-<img src=https://github.com/kailas711/ZTM-PyTorch/assets/89206677/9163b121-0ce9-4742-850a-bcb3c2640ec3
-        alt="Picture" 
-        width="400" 
-        height="200" 
-        style="display: block; margin: 0 auto" />
+  <img src="https://raw.githubusercontent.com/mrdbourke/pytorch-deep-learning/main/images/misc-pytorch-course-launch-cover-white-text-black-background.jpg"
+       alt="Course Image" 
+       width="900" 
+       height="450" 
+       style="display: block; margin: 0 auto" />
+</p>
+
+**Course Content and Structure:**
+[Course Link](https://zerotomastery.io/courses/learn-pytorch/) 📚👨‍💻
+
+Explore the comprehensive and up-to-date learnings from the Zero-To-Mastery PyTorch for Deep Learning MOOC with this repository. 🚀 This course, designed to be the most modern and inclusive, provides a solid foundation for mastering PyTorch and the best one I took so far.
 
 
 
-| **Notebook** | **What does it cover?** |
+| **Notebook** | **Content Overview** |
 | ----- | ----- |
-| [00 - PyTorch Fundamentals](https://github.com/kailas711/ZTM-PyTorch/blob/main/00.%20Fundementals.ipynb) | Many fundamental PyTorch operations used for deep learning and neural networks. | 
-| [01 - PyTorch Workflow](https://github.com/kailas711/ZTM-PyTorch/blob/main/01.%20PyTorch%20Workflow%20Fundamentals.ipynb) | Provides an outline for approaching deep learning problems and building neural networks with PyTorch. | 
-| [02 - PyTorch Neural Network Classification](https://github.com/kailas711/ZTM-PyTorch/blob/main/02.%20PyTorch%20Neural%20Network%20Classification.ipynb)| 	Uses the PyTorch workflow from 01 to go through a neural network classification problem.|
+| [00 - PyTorch Fundamentals](https://github.com/kailas711/ZTM-PyTorch/blob/main/00.%20Fundementals.ipynb) | Learn essential PyTorch operations for deep learning and neural networks. | 
+| [01 - PyTorch Workflow](https://github.com/kailas711/ZTM-PyTorch/blob/main/01.%20PyTorch%20Workflow%20Fundamentals.ipynb) | Understand the approach to deep learning problems and building neural networks with PyTorch.  | 
+| [02 - PyTorch Neural Network Classification](https://github.com/kailas711/ZTM-PyTorch/blob/main/02.%20PyTorch%20Neural%20Network%20Classification.ipynb)| Apply PyTorch workflow to solve a neural network classification problem.  |
 
+Ready to embark on your PyTorch learning journey? Dive into the notebooks and enhance your understanding in a relaxed and professional manner.
