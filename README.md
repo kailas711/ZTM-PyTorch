@@ -10,7 +10,7 @@
 **Course Content and Structure:**
 [Course Link](https://zerotomastery.io/courses/learn-pytorch/) 📚👨‍💻
 
-Explore the comprehensive and up-to-date learnings from the Zero-To-Mastery PyTorch for Deep Learning MOOC with this repository. 🚀 This course, designed to be the most modern and inclusive, provides a solid foundation for mastering PyTorch and the best one I took so far.
+This repo contains all the coursework for the Zero to Master Academny's larget PyTorch MOOC in Udemy. 
 
 
 
