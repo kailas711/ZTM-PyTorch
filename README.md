@@ -10,7 +10,7 @@
 **Course Content and Structure:**
 [Course Link](https://zerotomastery.io/courses/learn-pytorch/) 📚👨‍💻
 
-Welcome to the repository for the Zero to Master Academy's comprehensive PyTorch MOOC on Udemy! This repository houses all the coursework, exercises, and projects covered in the course, providing you with a centralized location to access and manage your learning materials.
+Welcome to my repository for the Zero to Master Academy's comprehensive PyTorch MOOC on Udemy! This repository houses all the coursework, exercises, and projects covered in the course, providing you with a centralized location to access and manage your learning materials.
 
 | **Notebook** | **Content Overview** |
 | ----- | ----- |
