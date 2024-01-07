@@ -1,4 +1,4 @@
-# ZTM-PyTorch 🔥 Learning Repository
+# ZTM-PyTorch Learning Repository
 <p align="center">
   <img src="https://raw.githubusercontent.com/mrdbourke/pytorch-deep-learning/main/images/misc-pytorch-course-launch-cover-white-text-black-background.jpg"
        alt="Course Image" 
@@ -8,9 +8,8 @@
 </p>
 
 **Course Content and Structure:**
-[Course Link](https://zerotomastery.io/courses/learn-pytorch/) 📚👨‍💻
 
-Welcome to my repository for the Zero to Master Academy's comprehensive PyTorch MOOC on Udemy! This repository houses all the coursework, exercises, and projects covered in the course, providing you with a centralized location to access and manage your learning materials.
+Welcome to my repository for the Zero to Master Academy's comprehensive PyTorch MOOC on Udemy! This repository houses all the coursework, exercises, and projects that i did by beign part of te course Pytorch Zero to Mastery  [Course Link](https://zerotomastery.io/courses/learn-pytorch/) 📚
 
 | **Notebook** | **Content Overview** |
 | ----- | ----- |
